@@ -11,3 +11,7 @@ I wrote this at the beginning of learning php (programming in general) and I'm n
 #### Requirements:
 - MYSQL Database
 - PHP 8.0 Web Server
+
+
+
+pages must be on separate domains like bit.ly and bitly.com
