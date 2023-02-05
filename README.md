@@ -14,4 +14,4 @@ I wrote this at the beginning of learning php (programming in general) and I'm n
 
 
 
-pages must be on separate domains like bit.ly and bitly.com
+pages must be on separate (or subdomains) domains like bit.ly and bitly.com
